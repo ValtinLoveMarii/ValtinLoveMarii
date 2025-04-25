@@ -1,6 +1,6 @@
 ## Olá Eu sou o Guilherme Toledo!
 - 🔭 Hoje eu trabalho com Python
-- 📘 Estudando Python e GitHub
+- 📘 Estudando Python
 - 💙 Amo minha namorada 
 <div>
     <div align="left">
